@@ -2,12 +2,16 @@
     margin:0px;
     padding: 0px;
 }
+.mainbox{
+    /* background-color: rgba(0, 0, 0, 0.644); */
+    background-image: url(img/vivid-blurred-colorful-background_58702-2655.avif)
+}
 h1{
     margin-bottom: 300px;
 }
 .cover{
     /* background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)url(img/700px.jpg)); */
-    background-image:url(img/700px.jpg);
+    background-image:url(img/BD\ 1.jpg);
     /* box-shadow:0 2px 3px rgba(0,0,0,0.2); */
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,6 +21,7 @@ h1{
     align-items: center;
     display: flex;
     margin-bottom: -150px;
+    box-shadow: 20px 20px;
     /* justify-content: center; */
     /* align-items: center; */
 }
